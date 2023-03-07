@@ -1,0 +1,98 @@
+.slider{
+    width: 100%;
+    height: auto;
+    margin-top: 2px;
+}
+#nave{
+    background-color:#0F1111 ;
+    
+   
+}
+.slider img{
+    width: 100%;
+    height:500px;
+    max-width: 100%;
+}
+.mainNav{
+    height: 30px;
+   width: 100%;
+   background-color:#232f3e ;
+   position: relative;
+   margin-bottom: 2px;
+   
+     
+}
+.mainNav .leftMainNav a{
+   
+    width: 100%;
+    color:rgb(249, 247, 247);
+    text-decoration: none;
+    margin: 10px 10px;
+   
+   
+}
+.mainNav .leftMainNav a:hover{color: rgb(223, 219, 219);}
+.signIn .container{
+  margin-bottom: 50px;
+  position: relative;
+   
+}
+.signIn{
+    width: 100%;
+    margin-top: 50px;
+}
+
+.adsGame{
+    margin-top: 5px;
+    padding: 20px;
+   background: url('./../../public/imgs/geams.jpeg') center no-repeat ;
+   background-size: cover;
+   max-width: 100%;
+   height: 500px;
+  position: relative;
+  box-sizing: border-box;
+  display: block;
+}
+.adsGame .gameinfo{
+    color: aliceblue;
+    text-align: center;
+    margin-top: 250px;
+}
+.adsfilm{
+    margin-top: 5px;
+    
+   background: url('./../../public/imgs/Movies.jpeg') center no-repeat ;
+   background-size: cover;
+ 
+ 
+   height: 500px;
+  position: relative;
+  box-sizing: border-box;
+  display: block;
+  overflow: hidden;
+}
+.adsfilm .filminfo{
+    
+        color: aliceblue;
+        text-align: center;
+        margin-top: 250px;
+      
+        
+}
+.footer {
+    background-color: #232f3e;
+    margin-top: 5px;
+    width: 100%;
+    height: auto;
+}
+.footer .container{
+    color: rgb(252, 249, 249);
+    text-align: center;
+    padding: 40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+};
+ h5{
+    text-decoration-line: underline;
+}
+
+

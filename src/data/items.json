@@ -1,0 +1,110 @@
+[
+    {
+      "id": 1,
+      "name": "iphone 13",
+      "price": 1849.99,
+      "description":"MSI Modern 15 A11MU-1019IT Notebook in Alluminio, 15.6 FHD, Intel I5-1155G7, 512GB SSD, 8GB RAM DDR4 3200MHz, WiFi 6, Win 11 Home, Ultrasottile 16.9 mm ed Ultraleggero 1.6Kg [Layout e Garanzia ITA] ",
+      "imgUrl": "/imgs/phone1.jpeg"
+    },
+    {
+      "id": 2,
+      "name": "Computer",
+      "description":"MSI Modern 15 A11MU-1019IT Notebook in Alluminio, 15.6 FHD, Intel I5-1155G7, 512GB SSD, 8GB RAM DDR4 3200MHz, WiFi 6, Win 11 Home, Ultrasottile 16.9 mm ed Ultraleggero 1.6Kg [Layout e Garanzia ITA] ",
+      "price": 1199,
+      "imgUrl": "/imgs/lap1.jpg"
+    },
+    {
+      "id": 3,
+      "name": "laptop",
+      "price": 2400.05,
+      "description":"MSI Modern 15 A11MU-1019IT Notebook in Alluminio, 15.6 FHD, Intel I5-1155G7, 512GB SSD, 8GB RAM DDR4 3200MHz, WiFi 6, Win 11 Home, Ultrasottile 16.9 mm ed Ultraleggero 1.6Kg [Layout e Garanzia ITA]",
+      "imgUrl": "/imgs/lap2.jpeg"
+    },
+  
+    {
+  
+      "id": 5,
+      "name": "light",
+      "price": 600,
+      "description":"MSI Modern 15 A11MU-1019IT Notebook in Alluminio, 15.6 FHD, Intel I5-1155G7, 512GB SSD, 8GB RAM DDR4 3200MHz, WiFi 6, Win 11 Home, Ultrasottile 16.9 mm ed Ultraleggero 1.6Kg [Layout e Garanzia ITA] ",
+      "imgUrl": "/imgs/lap1.jpg"
+    },
+    {
+      "id": 6,
+      "name": "light",
+      "price": 250,
+      "description":"MSI Modern 15 A11MU-1019IT Notebook in Alluminio, 15.6 FHD, Intel I5-1155G7, 512GB SSD, 8GB RAM DDR4 3200MHz, WiFi 6, Win 11 Home, Ultrasottile 16.9 mm ed Ultraleggero 1.6Kg [Layout e Garanzia ITA] ",
+      "imgUrl": "/imgs/lap2.jpeg"
+    },
+    {
+      "id": 7,
+      "name": "makeup",
+      "price": 120,
+      "description":" Bionike Defence - Struccante Occhi Bifasico per Pelli Sensibili e Intolleranti, Ideale anche il Trucco Waterproof, Dona una Detersione Profonda e Idratazione, 150 ml",
+      "imgUrl": "/imgs/makeup2.jpeg"
+    },{
+      "id": 8,
+      "name": "iphone",
+      "price": 1269,
+      "description":"MSI Modern 15 A11MU-1019IT Notebook in Alluminio, 15.6 FHD, Intel I5-1155G7, 512GB SSD, 8GB RAM DDR4 3200MHz, WiFi 6, Win 11 Home, Ultrasottile 16.9 mm ed Ultraleggero 1.6Kg [Layout e Garanzia ITA] ",
+      "imgUrl": "/imgs/phone4.jpeg"
+    },{
+      "id": 9,
+      "name": "makeup",
+      "price": 120,
+      "description":" Bionike Defence - Struccante Occhi Bifasico per Pelli Sensibili e Intolleranti, Ideale anche il Trucco Waterproof, Dona una Detersione Profonda e Idratazione, 150 ml",
+      "imgUrl": "/imgs/makeup1.jpeg"
+    },
+    {
+      "id": 10,
+      "name": "camera",
+      "price": 3400,
+      "description":"MSI Modern 15 A11MU-1019IT Notebook in Alluminio, 15.6 FHD, Intel I5-1155G7, 512GB SSD, 8GB RAM DDR4 3200MHz, WiFi 6, Win 11 Home, Ultrasottile 16.9 mm ed Ultraleggero 1.6Kg [Layout e Garanzia ITA] ",
+      "imgUrl": "/imgs/cam1.webp"
+    },{
+      "id": 11,
+      "name": "chear",
+      "price": 120,
+      "description":"MSI Modern 15 A11MU-1019IT Notebook in Alluminio, 15.6 FHD, Intel I5-1155G7, 512GB SSD, 8GB RAM DDR4 3200MHz, WiFi 6, Win 11 Home, Ultrasottile 16.9 mm ed Ultraleggero 1.6Kg [Layout e Garanzia ITA] ",
+      "imgUrl": "/imgs/chear1.webp"
+    },{
+      "id": 12,
+      "name": "play 5",
+      "price": 1600,
+      "description":"MSI Modern 15 A11MU-1019IT Notebook in Alluminio, 15.6 FHD, Intel I5-1155G7, 512GB SSD, 8GB RAM DDR4 3200MHz, WiFi 6, Win 11 Home, Ultrasottile 16.9 mm ed Ultraleggero 1.6Kg [Layout e Garanzia ITA] ",
+      "imgUrl": "/imgs/play1.webp"
+    },{
+      "id": 13,
+      "name": "sumsung",
+      "price": 2230,
+      "description":"Samsung Galaxy S23 Ultra, Caricatore incluso, Smartphone Android, Display 6.8'' Dynamic AMOLED 2X, Fotocamera 200MP, RAM 12GB, 1TB, 5.000 mAh, Phantom Black [Versione italiana]",
+      "imgUrl": "/imgs/sum1.jpeg"
+    },  {
+      "id": 4,
+      "name": "makeup",
+      "price": 120,
+      "description":" Bionike Defence - Struccante Occhi Bifasico per Pelli Sensibili e Intolleranti, Ideale anche il Trucco Waterproof, Dona una Detersione Profonda e Idratazione, 150 ml",
+      "imgUrl": "/imgs/makeup1.jpeg"
+    },{
+      "id": 12,
+      "name": "play 5",
+      "price": 1600,
+      "description":"MSI Modern 15 A11MU-1019IT Notebook in Alluminio, 15.6 FHD, Intel I5-1155G7, 512GB SSD, 8GB RAM DDR4 3200MHz, WiFi 6, Win 11 Home, Ultrasottile 16.9 mm ed Ultraleggero 1.6Kg [Layout e Garanzia ITA] ",
+      "imgUrl": "/imgs/play1.webp"
+    },{
+      "id": 13,
+      "name": "sumsung",
+      "price": 2230,
+      "description":"Samsung Galaxy S23 Ultra, Caricatore incluso, Smartphone Android, Display 6.8'' Dynamic AMOLED 2X, Fotocamera 200MP, RAM 12GB, 1TB, 5.000 mAh, Phantom Black [Versione italiana]",
+      "imgUrl": "/imgs/sum1.jpeg"
+    },  {
+      "id": 4,
+      "name": "makeup",
+      "price": 120,
+      "description":" Bionike Defence - Struccante Occhi Bifasico per Pelli Sensibili e Intolleranti, Ideale anche il Trucco Waterproof, Dona una Detersione Profonda e Idratazione, 150 ml",
+      "imgUrl": "/imgs/makeup1.jpeg"
+    }
+
+
+
+  ]
