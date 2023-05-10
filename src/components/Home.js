@@ -1,6 +1,9 @@
 import React from "react";
 import { Button, Carousel } from "react-bootstrap";
 import './Style.css'
+import Store from "./Store";
+
+
 const Home = () => {
   
   return (
@@ -84,13 +87,14 @@ const Home = () => {
         </li>
       </ul>
     </div>
-       <div className="adsfilm ">
+       <div className="adsfilm " >
         <div className="filminfo">
          <h1>DISCOVER NEW FILM</h1>
          <p>WATCH For First Time Free</p>
          <Button variant="info">WATCH Now</Button>
         </div>      
        </div>
+       <Store />
     </div>
     
   );
